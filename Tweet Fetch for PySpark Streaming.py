@@ -6,10 +6,10 @@ import socket
 import json
 
 
-consumer_key = "xQNiAHTS0JDZ9P1SRIy3ZJ5c0"
-consumer_secret = "w0TSDigLm71AqEQbiQ5dQhXMsbg0a0CpCfoHLNyXVH2OtM49NQ"
-access_token = "79980108-5H5NwHvcUNI8QN6DW61EaCkGGjwC0gixks46eR6jC"
-access_secret = "TBDRr9hZYcS3EvP4M7qz6tK0ouhvbol41VOckFTSAH8ox"
+consumer_key = "Enter Consumer key"
+consumer_secret = "Enter Consumer Secret"
+access_token = "Enter Access Token"
+access_secret = "Enter Access Secret"
 
 
 class TweetsListener(StreamListener):
